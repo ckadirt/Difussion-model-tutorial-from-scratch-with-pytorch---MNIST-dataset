@@ -1,1 +1,1 @@
-# Basic-difussion-model-tutorial---MNIST-dataset
+# Basic difussion model tutorial from scratch with pytorch --- MNIST dataset
